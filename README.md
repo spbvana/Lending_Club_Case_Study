@@ -56,4 +56,4 @@ Atlast we can conclude what all variables to be considered by the Lending Club w
 
 ## Collaborators
 
-Created by [Saravanan Ponmudi](https://github.com/spbvana) and [Sandeep Sonawane]()
+Created by [Saravanan Ponmudi](https://github.com/spbvana) and [Sandeep Sonawane](https://github.com/sonawanesg)
